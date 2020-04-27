@@ -13,18 +13,6 @@ Project Team Members:
 
 (10 points) 
 
-For the project proposal, please write a short abstract addressing the questions below. You should replace the entire contents of this section with one to two paragraphs addressing the following:
-
-- What is the data set that you are going to analyze?
-- What is your research question? 
-- What is your hypothesis about the results? 
-- What features of the data will you use to address your question? 
-- What techniques and software tools will you use to extract these features?
-- What analytic techniques will you use?
-- What forms will your results take? (graphs, charts, images, sonification, Wordles, etc)
-- How are you expanding on topics we have covered in class? 
-- Why is it interesting? (personally, culturally, politically, other)
-
 Rooted in our group members' common interest in watching movies, we decided to take this Midterm Project as an opportunity to explore critically the intersection between digital films and the arts. 
 Movie posters are one the very first impressions movie viewers have on each movie. Often times, designs of these images would influence viewers' perceptions of movie contents and therefore secondarily affect their evaluations on the movies overall. With these ideas in mind, our group seeks to find out underlying associations between viewers' voted ratings for each film and image statistics/features of each movie poster. We would base our analyses on data including movie posters and movie details both available from IMDB website. Specifically, we would be looking at movies of the particular sci-fi genre. This category is chosen upon reflection on how sci-fi movies most closely resembles "the future" -- and therefore, via assay on these movie covers, we hope to consider these findings as cultural resemblences of pertaining social forms. Believing that the general public would prefer a more "uplifting and wholesome future," we address this subject by comparing what the movie posters tell (image features) by their acquired ratings. That is, based on common perceptions of image data, we hypothesize that
 - The more variety of hues a sci-fi movie poster has, the higher its rating will be.
