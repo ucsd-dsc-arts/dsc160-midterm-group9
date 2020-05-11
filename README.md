@@ -20,6 +20,7 @@ The world-famous Walt Disnet Animation Studios has produced countless number of 
 - Snow White and the Seven Dwarfs
 - Pinocchio
 - Frozen
+
 The noteable Studio Ghibli, on the other hand, has produced many award-winning animation films, as well as many of the most highest-grossing anime films worldwide. These include:
 - Castle in the Sky
 - Spirited Away
