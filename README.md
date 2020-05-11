@@ -27,9 +27,9 @@ The noteable Studio Ghibli, on the other hand, has produced many award-winning a
 - Howl's Moving Castle
 
 Derived from our group members' background understanding on the two production studios' animes, our hypotheses are based on these workshops' movie images, and are formulated as followed:
-1.  
-2.
-3.
+1. Hypothesis1
+2. Hypothesis2
+3. Hypothesis3
 
 Besides primary image features discussed above, we would also look into reflecting movie images' feature statistics on each movie's "Plot Keywords." Most mentioned plot keywords would be illustrated by word-clouds with colors associated to results of image processing. Building upon topics covered in class, our analyses would be primarily based on Python. We are expecting to deploy popular image-processing libraries including skimage, OpenCV, Pillow along with Bokeh for interactive visualizations. Results would later be presented in a variety of forms including images and graphs for summary of significant findings, word-clouds for displays of plot keywords results, and interactive charts enabled for better understandings of our project.  
 
