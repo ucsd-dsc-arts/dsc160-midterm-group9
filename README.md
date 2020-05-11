@@ -95,6 +95,7 @@ The subsequent paragraphs could address questions including:
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 - Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), and drafted the "Modelling" portion of "Results".
+- Yupei Zhou: completed visualization (visualization.ipynb). 
 
 ## Technical Notes and Dependencies
 
