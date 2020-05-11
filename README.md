@@ -54,7 +54,7 @@ This section will contain links to documentation of your results. This can inclu
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
-Modelling:
+#### Modelling:
 - In an attempt to classify Disney's movie photos from those of Ghibli's, several classification models -- including Support Vector Machine, Random Forest Classifier, AdaBoost Classifier, Gaussian Mixture Model, Decision Tree Classifier, and K-Nearest Neighbors -- were trained and tested on our image dataset.
 - Our best classification result is based on a Support Vector Machine with a highest accuracy score of 0.818. While this result can not be referenced as particularly high, we do believe there is a high probability it might be due to our lack of training data. With more training instances, we are confident in seeing a possibly higher classification accuracy score. Disregarding of this limitation, a score of 0.818 does tell us that there are discernable and un-ignorable differences in terms of image stats between the famous Western Animation studio and the prominent Eastern Studio Gilbli.
 - Each model are fitted to a GridSearch with numerous hyperparamters for tuning, as well as a 5-fold cross validation to address the problem of overfitting. Results are then selected as the best accuracy_score among each model's 5 produced score.
