@@ -16,6 +16,7 @@ Project Team Members:
 Rooted in our group members' common interest in watching animation movies, and after revision of Professor's comments, we decided to take this Midterm Project as an opportunity to explore critically the intersection between digital films (animations) and the arts. 
 Movie photos or movie screenshots are one of the very first impressions movie viewers have on each film. Often times, qualities of these images would directly influence viewers' decision on whether to proceed with watching or whether to turn to other options. Inspired by this understanding, our group hopes to compare two of the greatest animation production bases: America and Japan's animation movie photos, for studies on how Western and Eastern animation movies differ in their illustration approaches. In particular, we would be looking at two of the most prominent animation studios from the two nations -- Walt Disney Animation Studios (America) and Studio Ghibli (Japan) -- and inspect how image statistics from their movie productions differ.
 
+![Walt Disnet Animation Studios](https://github.com/ucsd-dsc-arts/dsc160-midterm-group9/tree/master/data/Walt_Disney_Animation_Studios_logo.svg.png)
 The world-famous Walt Disnet Animation Studios has produced countless number of celebrated animated feature films including:
 - Snow White and the Seven Dwarfs
 - Pinocchio
