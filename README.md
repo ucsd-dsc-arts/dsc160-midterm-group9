@@ -78,6 +78,10 @@ This section will contain links to documentation of your results. This can inclu
 - Not very surprising, Support Vector Machine (SVM) won the first place in terms of classification, with a highest accuracy score of 0.818. However, what we found surprising is a SVM model with a hyperparamter set of an 'rbf' kernel, and gamma of 'scale', produced equally high accuracy_score as a linear SVC with penalty term of l2. This says that a Support Vector Machine with two different kernel functions gave exactly the same result, which we believe is pretty rare to see.
 - Except for the few classifiers that gave unreasonable outcomes (e.g. K-Nearest Neighbors with )
 
+#### Visualization
+We are concered with five image features (mean_hue, mean_saturation, mean_value, mean_entropy, edge_sum) in this project, and a boxplot showing distributions of these five features in both studios is given below.
+![](https://github.com/ucsd-dsc-arts/dsc160-midterm-group9/blob/master/results/Boxplots%20of%20Image%20Features.jpg)
+
 ## Discussion
 
 (30 points, three to five paragraphs)
@@ -95,7 +99,7 @@ The subsequent paragraphs could address questions including:
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 - Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), and drafted the "Modelling" portion of "Results".
-- Yupei Zhou: completed visualization (visualization.ipynb). 
+- Yupei Zhou: completed visualization (visualization.ipynb) and drafted "Visualization" portion of "Results".
 
 ## Technical Notes and Dependencies
 
