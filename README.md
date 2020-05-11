@@ -13,8 +13,9 @@ Project Team Members:
 
 (10 points) 
 
-Rooted in our group members' common interest in watching movies, we decided to take this Midterm Project as an opportunity to explore critically the intersection between digital films and the arts. 
-Movie posters are one of the very first impressions movie viewers have on each movie. Often times, designs of these images would influence viewers' perceptions of movie contents and therefore secondarily affect their evaluations on the movies overall. With these ideas in mind, our group seeks to find out underlying associations between viewers' voted ratings for each film and image statistics/features of each movie poster. We would base our analyses on data including movie posters and movie details both available from IMDB website. Specifically, we would be looking at movies of the particular sci-fi genre. This category is chosen upon reflection on how sci-fi movies most closely resembles "the future" -- and therefore, via assay on these movie covers, we hope to consider these findings as cultural resemblences of pertaining social forms. Believing that the general public would prefer a more "uplifting and wholesome future," we address this subject by comparing what the movie posters tell (image features) by their acquired ratings. That is, based on common perceptions of image data, we hypothesize that
+Rooted in our group members' common interest in watching movies, and after revision of Professor's comments, we decided to take this Midterm Project as an opportunity to explore critically the intersection between digital films and the arts. 
+Movie photos or movie screenshots are one of the very first impressions movie viewers have on each movie. Often times, 
+designs of these images would influence viewers' perceptions of movie contents and therefore secondarily affect their evaluations on the movies overall. With these ideas in mind, our group seeks to find out underlying associations between viewers' voted ratings for each film and image statistics/features of each movie poster. We would base our analyses on data including movie posters and movie details both available from IMDB website. Specifically, we would be looking at movies of the particular sci-fi genre. This category is chosen upon reflection on how sci-fi movies most closely resembles "the future" -- and therefore, via assay on these movie covers, we hope to consider these findings as cultural resemblences of pertaining social forms. Believing that the general public would prefer a more "uplifting and wholesome future," we address this subject by comparing what the movie posters tell (image features) by their acquired ratings. That is, based on common perceptions of image data, we hypothesize that
 - The more variety of hues a sci-fi movie poster has, the higher its rating will be.
 - The brighter a sci-fi movie poster is, the higher its rating will be.
 - The more saturated a sci-fi movie poster is, the higher its rating will be.
@@ -77,6 +78,7 @@ The subsequent paragraphs could address questions including:
 ## Team Roles
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+- Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), and drafted the "Modelling" portion of "Results".
 
 ## Technical Notes and Dependencies
 
