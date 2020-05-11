@@ -42,6 +42,7 @@ This section will link to the various code for your project (stored within this 
 - cleaning
 - analysis
 - generating results. 
+- [Modelling](code/modelling.ipynb): ipynb file for feature engineering, model fitting, and model evaluation
 
 Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
 
