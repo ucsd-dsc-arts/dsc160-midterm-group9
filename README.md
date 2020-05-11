@@ -38,13 +38,10 @@ This section will describe your data and its origins. Each item should contain a
 
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
 
-- data acquisition/scraping
-- cleaning
+- [Data Scraping](code/scrape-image.ipynb): ipynb file for data acquisition and scraping
 - analysis
-- generating results. 
 - [Modelling](code/modelling.ipynb): ipynb file for feature engineering, model fitting, and model evaluation
-
-Link each of your notebooks or .py files within this section, and provide a brief explanation of what the code does. Reading this section we should have a sense of how to run your code.
+- [Data Visualization](code/visualization.ipynb): ipynb file for data visualization 
 
 ## Results
 
