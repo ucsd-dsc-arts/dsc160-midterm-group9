@@ -48,20 +48,13 @@ Besides primary image features discussed above, we would also look into reflecti
 
 This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
 - What is your cultural data source? 
-
-we scraped both images and storylines data from https://www.imdb.com/search/title/?companies=co0048420&ref_=adv_prv & https://www.imdb.com/search/title/?companies=co0074039&sort=year,asc&ref_=adv_prv. The two websites show Walt Disnet Animation Studio's and Studio Ghibli's movies posters (photos) and detailed information, like their published year and storylines.
-
+-we scraped both images and storylines data from https://www.imdb.com/search/title/?companies=co0048420&ref_=adv_prv & https://www.imdb.com/search/title/?companies=co0074039&sort=year,asc&ref_=adv_prv. The two websites show Walt Disnet Animation Studio's and Studio Ghibli's movies posters (photos) and detailed information, like their published year and storylines.
 - When was it made? 
-
-We scrape data from movies made after 1985 for both studio.
-
+-We scrape data from movies made after 1985 for both studio.
 - Who created the works? 
-
-For Studio Ghibli's movies, we only scrape images of movies directed by Hayao. For Walt Disnet Animation Studio, the images we scrape come from different directors.
-
+-For Studio Ghibli's movies, we only scrape images of movies directed by Hayao. For Walt Disnet Animation Studio, the images we scrape come from different directors.
 - Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
-
-The images are all .jpg.
+-The images are all .jpg.
 
 ## Code
 
@@ -175,7 +168,7 @@ Provide an account of individual members and their efforts/contributions to the 
 
 ## Technical Notes and Dependencies
 
-Our codes are solely based on Python programming language, with common image processing libraries addressed in the Introduction. In addition to deployment of Pandas -- a powerful data analysis and manipulation library, and Numpy -- a core library for scientific computing, We utilized the [wordcloud](https://amueller.github.io/word_cloud/) library to make wordclouds of movie plot keywords. Other implemented libraries are mostly introduced in class, and therefore we do not anticipate needs for additional installation of pip packages or softwares. Each ipynb file contains each of its needed imports within the documents itself, therefore by running the codes entirely, one should be able to have necessary imports ready for codes to be running.
+Our codes are solely based on Python programming language, with common image processing libraries addressed in the Introduction. Except for deployment of Pandas -- a powerful data analysis and manipulation library, and Numpy -- a core library for scientific computing. We use the [wordcloud](https://amueller.github.io/word_cloud/) library to make wordclouds of movie plot keywords. Other implemented libraries are mostly introduced in class, and therefore we do not anticipate needs for additional installation of pip packages or softwares. Each ipynb file contains each of its needed imports within the documents itself, therefore by running the codes entirely, one should be able to have necessary imports ready for codes to be running.
 
 ## Reference
 
