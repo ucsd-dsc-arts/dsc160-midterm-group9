@@ -1,5 +1,4 @@
-# Walt Disney Animation Studio VS. Studio Ghibli 
-##Visual Analysis on Movie Images
+# Visual Analysis of Movie Images<br>Walt Disney Animation Studio VS. Studio Ghibli
 
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
