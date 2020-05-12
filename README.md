@@ -81,6 +81,13 @@ This section will contain links to documentation of your results. This can inclu
 #### Visualization
 We are concered with five image features (mean_hue, mean_saturation, mean_value, mean_entropy, edge_sum) in this project, and a boxplot showing distributions of these five features in both studios is given below.
 ![](https://github.com/ucsd-dsc-arts/dsc160-midterm-group9/blob/master/results/Boxplots%20of%20Image%20Features.jpg)
+The boxplot shows that the distributions are very similar and it is hard to tell the difference based only on a single feature. Therefore, we look at pairplots of these five features in both studios.
+![](https://github.com/ucsd-dsc-arts/dsc160-midterm-group9/blob/master/results/Pairplots%20of%20Image%20Features.jpg)
+The [pairplot](https://seaborn.pydata.org/generated/seaborn.pairplot.html) function in the [Seaborn](https://seaborn.pydata.org/index.html) library carries out a linear regression and plots the result on non-diagonal plots. It shows the linear relationship between every pair of features in both studios. We notice that for the following pairs of features, linear regression suggests an opposite relationship.
+- mean_hue vs. mean_entropy
+- mean_value vs. mean_entropy
+- mean_value vs. edge_sum
+Interactive plots showing these in greater detail can be found at the "Make Interactive Plots" section of the [visualization notebook](code/visualization.ipynb).
 
 ## Discussion
 
@@ -125,3 +132,6 @@ References to any papers, techniques, repositories you used:
 - Sites
 	- https://en.wikipedia.org/wiki/Studio_Ghibli
 	- https://en.wikipedia.org/wiki/Walt_Disney_Animation_Studios
+        - https://seaborn.pydata.org/index.html
+        - https://seaborn.pydata.org/generated/seaborn.pairplot.html
+        - https://seaborn.pydata.org/generated/seaborn.regplot.html
