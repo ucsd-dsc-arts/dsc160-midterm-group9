@@ -56,6 +56,7 @@ This section will describe your data and its origins. Each item should contain a
 
 (20 points)
 
+Please follow the click on links for directions to each different section's coded ipynb files.
 - [Data Scraping](code/scrape-image.ipynb): ipynb file for data acquisition and scraping
 - [Data Analysis](code/data_analysis.ipynb): ipynb file for feature extraction and data processing
 - [Modelling](code/modelling.ipynb): ipynb file for feature engineering, model fitting, and model evaluation
