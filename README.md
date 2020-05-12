@@ -64,7 +64,7 @@ This section describes our data background and briefs over our data's origins.
 
 - Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
 
-  Our image data are all in .jpg format, while our scraped story plots are in plain text.
+  Our image data are all in <em>.jpg</em> format, while our scraped story plots are in plain text.
 
 ## Code
 
