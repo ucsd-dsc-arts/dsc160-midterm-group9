@@ -102,6 +102,7 @@ The two animation studios (Disney Animation Studios and Ghibli Studios) we chose
 ## Team Roles
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
+- Sizhu Chen: scraped data (images and text) from two different website. (scrape-images-hayao/disney.ipynb)
 - Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), and drafted the "Modelling" portion of "Results".
 - Yupei Zhou: completed visualization (visualization.ipynb) and drafted "Visualization" portion of "Results".
 - Yunlin Tang: wrote discussion, integrated results part. 
