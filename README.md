@@ -129,7 +129,7 @@ The difference found in the numbers of frames in movies between Disney and Ghibl
 
 <div align='center'>
 	<img src='https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/Alice-in-Wonderland-1-700x300.jpg' width=500>
-	<img src='//cdn.onebauer.media/one/media/5e31/aba8/fa58/9980/efc1/507b/spirited-away-main.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg' width=500>
+	<img src='https://cdn.onebauer.media/one/media/5e31/aba8/fa58/9980/efc1/507b/spirited-away-main.jpg?quality=50&width=1800&ratio=16-9&resizeStyle=aspectfill&format=jpg' width=500>
 </div>
 
 Notice that both studios anthropomorphized the nonliving objects or animals in animations. However, similar to the styles of human characters, Disney used exaggerated features to emphasize the characteristics of the objects such as solid color blocks and strong hue contrast; and Ghibli used detailed line elements and tint color contrast to portray the nonexisting dragon character. These obvious variations in two distinct animation styles can be correlated with the different audiences and targeted consumer groups in the United States and Japan. In American culture, animation movies are more considered as a medium for young-aged children thus using exaggerations and simplification in depicting the characters would attract more potential consumers. In contrast, Japanese culture considers animation movies are also for teenagers and adults; therefore the style of detailed realism would be more appropriate for the targeted users’ group.
