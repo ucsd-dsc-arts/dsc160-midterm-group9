@@ -23,6 +23,7 @@ The world-famous Walt Disnet Animation Studios has produced countless number of 
 - Snow White and the Seven Dwarfs
 - Pinocchio
 - Frozen
+- etc.
 
 <p align="center"> 
 <img  width=360px height=290px src =https://upload.wikimedia.org/wikipedia/en/c/ca/Studio_Ghibli_logo.svg>
@@ -32,6 +33,7 @@ The noteable Studio Ghibli, on the other hand, has produced many award-winning a
 - Castle in the Sky
 - Spirited Away
 - Howl's Moving Castle
+- etc.
 
 Derived from our group members' background understanding on the two production studios' animes, our hypotheses are based on these workshops' movie images, and are formulated as followed:
 1. Hypothesis1
@@ -103,17 +105,15 @@ The two animation studios (Disney Animation Studios and Ghibli Studios) we chose
 
 Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 - Sizhu Chen: scraped data (images and text) from two different website. (scrape-images-hayao/disney.ipynb)
-- Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), and drafted the "Modelling" portion of "Results".
+- Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), drafted the "Modelling" portion of "Results" and finished Technical Notes and Dependencies.
 - Yupei Zhou: completed visualization (visualization.ipynb) and drafted "Visualization" portion of "Results".
 - Yunlin Tang: wrote discussion, integrated results part. 
 - Yuanbo Shi: data preprocesscing, feature extraction, feature analyzing (data_analysis.iphynb)
 
 ## Technical Notes and Dependencies
 
-Any implementation details or notes we need to repeat your work. 
-- Additional libraries you are using for this project
-- Does this code require other pip packages, software, etc?
-- Does this code need to run on some other (non-datahub) platform? (CoLab, etc.)
+Our codes are solely based on Python programming language, with common image processing libraries addressed in the Introduction. Except for deployment of Pandas -- a powerful data analysis and manipulation library, and Numpy -- a core library for scientific computing, other implemented libraries are mostly introduced in class, and therefore we do not anticipate needs for additional installation of pip packages or softwares.
+Each ipynb file contains each of its needed imports within the documents itself, therefore by running the codes entirely, one should be able to have necessary imports ready for codes to be running.
 
 ## Reference
 
