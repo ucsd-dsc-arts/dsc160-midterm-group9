@@ -194,4 +194,6 @@ References to any papers, techniques, repositories you used:
 	- https://amueller.github.io/word_cloud/
 	- https://en.wikipedia.org/wiki/History_of_animation
 	- https://en.wikipedia.org/wiki/Traditional_animation
+	- https://www.imdb.com/search/title/?companies=co0074039&sort=year,asc&ref_=adv_prv
+	- https://www.imdb.com/search/title/?companies=co0048420&ref_=adv_prv
 
