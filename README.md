@@ -57,7 +57,7 @@ This section will describe your data and its origins. Each item should contain a
 This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
 
 - [Data Scraping](code/scrape-image.ipynb): ipynb file for data acquisition and scraping
-- analysis
+- [Data Analysis](code/data_analysis.ipynb): ipynb file for feature extraction and data processing
 - [Modelling](code/modelling.ipynb): ipynb file for feature engineering, model fitting, and model evaluation
 - [Data Visualization](code/visualization.ipynb): ipynb file for data visualization 
 
@@ -78,7 +78,7 @@ This section will contain links to documentation of your results. This can inclu
 - Not very surprising, Support Vector Machine (SVM) won the first place in terms of classification, with a highest accuracy score of 0.818. However, what we found surprising is a SVM model with a hyperparamter set of an 'rbf' kernel, and gamma of 'scale', produced equally high accuracy_score as a linear SVC with penalty term of l2. This says that a Support Vector Machine with two different kernel functions gave exactly the same result, which we believe is pretty rare to see.
 - Except for the few classifiers that gave unreasonable outcomes (e.g. K-Nearest Neighbors with )
 
-#### Visualization:
+#### Visualization
 We are concered with five image features (mean_hue, mean_saturation, mean_value, mean_entropy, edge_sum) in this project, and a boxplot showing distributions of these five features in both studios is given below.
 ![](https://github.com/ucsd-dsc-arts/dsc160-midterm-group9/blob/master/results/Boxplots%20of%20Image%20Features.jpg)
 
