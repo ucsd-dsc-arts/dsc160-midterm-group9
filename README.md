@@ -80,13 +80,8 @@ Please click on the following links for directions to each different section's c
 
 (30 points) 
 
-This section will contain links to documentation of your results. This can include figures, sound files, videos, bitmaps, as appropriate to your domain of analysis. Each result should include a brief textual description, and all should be listed below: 
-
-- image files (`.jpg`, `.png` or whatever else is appropriate)
-- audio files (`.wav`, `.mp3`)
-- written text as `.pdf`
-
 #### Features:
+- After scraping the data, we obtain 178 frames for Ghibli animation movies and 321 frames for Disney.
 - Comparing the difference in the distribution of the sizes of the two groups of pictures, we made sure that the pictures share simlar sizes which means that the size of each picture won't affect the classification.
 - By using bootstrap, we computed the 95% confidence interval for each feature from two groups of data. The features include the mean hue, mean saturation, mean value, mean entropy and the sum of the edges. As the diffrence between the CIs for the two groups turns out, Disney studio's pictures tend to have a higher mean saturation and a lower mean value compared with the pictures from Hayao's movies. It means that Disney movies tend to be more colorful but darker while Ghibli movies tend to be more grey but brighter. Other features, however, do not show significant differences between the two groups. 
 
@@ -126,15 +121,6 @@ This section will contain links to documentation of your results. This can inclu
 ## Discussion
 
 (30 points, three to five paragraphs)
-
-The first paragraph should be a short summary describing your results.
-
-The subsequent paragraphs could address questions including:
-- Why is this culturally relevant?
-- How does your computational approach differ from the traditional art historical, musicological, manuel/subjective approach to analyzing your cultural subject? 
-- How do you think the original artists/musicians would respond to this type of analysis? Would it change/inform their practice in some way?
-- How do your results relate to broader social, cultural, economic political, etc., issues? 
-- In what future directions could you expand this work?
 
 The two animation studios (Disney Animation Studios and Ghibli Studios) we chose in this project are two of the most prominent production companies in animation movies. They occupied extremely significant positions in the movie art-making world as milestones in several decades. Since the 20th century, Disney had employed Technicolor and Cels animation technique in their animation making process. Many animated companies also made use of the Disney technical and aesthetic model into their own films. Ghibli Studio, as an example, also made reference to the Disney model but further extended its movie productions into a distinct and unique style in order to differ from others. Our results from extracting several basic and advanced image statistics on multiple frames in movies have shown the general difference between Disney and Ghibli styles. On the multiple boxplots of image features provided in the data visualization part (shown below), each boxplot for different features generally reflects the average stats between these two companies. The plot includes the average value for HSV color (illustrated below), entropy, and edge measurements. It is clear that the mean hue and saturation between the two groups are approximately close; however, the boxplots also indicate that the 25/75 percentiles (Q1 and Q3) are more spread in Disney movies compared to Ghibli. In addition, the mean value in Ghibli movies is slightly higher than Disney’s. This observation concludes that both studios have similar characteristics in light and shadow, bright and dark contrast, and tint color contrast. However, Ghibli is more consistent in color harmony and lightness (value) of general color elements in movies, while Disney has a stronger complementary color and hue contrast. In addition, the mean entropy in Ghibli movies is also slightly higher than in Disney, which demonstrates that Disney tends to use plain color in several frames while Ghibli does not. These differences lead to a relatively good and acceptable performance for several machine learning models to classify the labels for each frame in our datasets while we use the image features.
 
