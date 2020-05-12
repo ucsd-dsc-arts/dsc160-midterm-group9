@@ -46,6 +46,8 @@ Besides primary image features discussed above, we would also look into reflecti
 
 (10 points) 
 
+This section describes our data background and briefs over our data's origins.
+
 - What is your cultural data source? 
 
   Our cultural data source includes images and storylines scraped from [IMDb: Studio Ghibil](https://www.imdb.com/search/title/?companies=co0048420&ref_=adv_prv) and [IMDb: Walt Disney Animation Studios](https://www.imdb.com/search/title/?companies=co0074039&sort=year,asc&ref_=adv_prv) 
