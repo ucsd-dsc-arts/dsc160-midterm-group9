@@ -181,7 +181,6 @@ Our codes are solely based on Python programming language, with common image pro
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
 - Papers:
 	- https://pdfs.semanticscholar.org/cf19/77dcc1de865ef5680a91edd63e1db51a0be4.pdf
 - Repositories:
