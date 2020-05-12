@@ -133,7 +133,7 @@ Provide an account of individual members and their efforts/contributions to the 
 
 ## Technical Notes and Dependencies
 
-Our codes are solely based on Python programming language, with common image processing libraries addressed in the Introduction. Except for deployment of Pandas -- a powerful data analysis and manipulation library, and Numpy -- a core library for scientific computing. We use the [wordcloud](https://amueller.github.io/word_cloud/) library to make wordclouds of movie plot keywords. Other implemented libraries are mostly introduced in class, and therefore we do not anticipate needs for additional installation of pip packages or softwares. Each ipynb file contains each of its needed imports within the documents itself, therefore by running the codes entirely, one should be able to have necessary imports ready for codes to be running.
+Our codes are solely based on Python programming language, with common image processing libraries addressed in the Introduction. In addition to deployment of Pandas -- a powerful data analysis and manipulation library, and Numpy -- a core library for scientific computing, We utilized the [wordcloud](https://amueller.github.io/word_cloud/) library to make wordclouds of movie plot keywords. Other implemented libraries are mostly introduced in class, and therefore we do not anticipate needs for additional installation of pip packages or softwares. Each ipynb file contains each of its needed imports within the documents itself, therefore by running the codes entirely, one should be able to have necessary imports ready for codes to be running.
 
 ## Reference
 
