@@ -56,8 +56,6 @@ This section will describe your data and its origins. Each item should contain a
 
 (20 points)
 
-This section will link to the various code for your project (stored within this repository). Your code should be executable on datahub, should we choose to replicate your result. This includes code for: 
-
 - [Data Scraping](code/scrape-image.ipynb): ipynb file for data acquisition and scraping
 - [Data Analysis](code/data_analysis.ipynb): ipynb file for feature extraction and data processing
 - [Modelling](code/modelling.ipynb): ipynb file for feature engineering, model fitting, and model evaluation
@@ -103,7 +101,6 @@ The two animation studios (Disney Animation Studios and Ghibli Studios) we chose
 
 ## Team Roles
 
-Provide an account of individual members and their efforts/contributions to the specific tasks you accomplished.
 - Sizhu Chen: scraped data (images and text) from two different website. (scrape-images-hayao/disney.ipynb)
 - Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), drafted the "Modelling" portion of "Results" and finished Technical Notes and Dependencies.
 - Yupei Zhou: completed visualization (visualization.ipynb) and drafted "Visualization" portion of "Results".
