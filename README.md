@@ -158,7 +158,6 @@ In our project, we also provide the word clouds for Disney animation studio and 
 <div align='center'>
 	<p>Word Cloud for Disney</p>
 	<img src='https://raw.githubusercontent.com/ucsd-dsc-arts/dsc160-midterm-group9/master/results/Disney%20Movie%20Plot%20Keywords.jpg' width=500>
-	<br/>
 	<p>Word Cloud for Ghibli</p>
 	<img src='https://raw.githubusercontent.com/ucsd-dsc-arts/dsc160-midterm-group9/master/results/Ghibli%20Movie%20Plot%20Keywords.jpg' width=500>
 </div>
