@@ -105,7 +105,7 @@ The two animation studios (Disney Animation Studios and Ghibli Studios) we chose
 - Jou-Ying Lee: wrote Abstract, completed model fitting (modelling.ipynb), drafted the "Modelling" portion of "Results" and finished Technical Notes and Dependencies.
 - Yupei Zhou: completed visualization (visualization.ipynb) and drafted "Visualization" portion of "Results".
 - Yunlin Tang: wrote discussion, integrated results part. 
-- Yuanbo Shi: data preprocesscing, feature extraction, feature analyzing (data_analysis.iphynb)
+- Yuanbo Shi: data preprocesscing, feature extraction, feature analyzing (data_analysis.ipynb)
 
 ## Technical Notes and Dependencies
 
