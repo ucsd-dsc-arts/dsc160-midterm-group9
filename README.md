@@ -71,7 +71,7 @@ This section describes our data background and briefs over our data's origins.
 (20 points)
 
 Please click on the following links for directions to each different section's coded ipynb files.
-- [Data Scraping for disney](code/scrape-image-disney.ipynb) and [Data Scraping for Hayao](code/scrape-image-hayao.ipynb): ipynb file for data acquisition and scraping
+- [Data Scraping for Disney](code/scrape-image-disney.ipynb) and [Data Scraping for Hayao](code/scrape-image-hayao.ipynb): ipynb file for data acquisition and scraping
 - [Data Analysis](code/data_analysis.ipynb): ipynb file for feature extraction and data processing
 - [Modelling](code/modelling.ipynb): ipynb file for feature engineering, model fitting, and model evaluation
 - [Data Visualization](code/visualization.ipynb): ipynb file for data visualization 
