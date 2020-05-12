@@ -48,12 +48,19 @@ Besides primary image features discussed above, we would also look into reflecti
 
 This section will describe your data and its origins. Each item should contain a name of the data source, a link to the source, and any necessary background information such as:
 - What is your cultural data source? 
+
 we scraped both images and storylines data from https://www.imdb.com/search/title/?companies=co0048420&ref_=adv_prv & https://www.imdb.com/search/title/?companies=co0074039&sort=year,asc&ref_=adv_prv. The two websites show Walt Disnet Animation Studio's and Studio Ghibli's movies posters (photos) and detailed information, like their published year and storylines.
+
 - When was it made? 
+
 We scrape data from movies made after 1985 for both studio.
+
 - Who created the works? 
+
 For Studio Ghibli's movies, we only scrape images of movies directed by Hayao. For Walt Disnet Animation Studio, the images we scrape come from different directors.
+
 - Is it digital native, or is it some kind of scan, recording, photo, etc., of an analog form? 
+
 The images are all .jpg.
 
 ## Code
