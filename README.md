@@ -86,6 +86,10 @@ This section will contain links to documentation of your results. This can inclu
 - audio files (`.wav`, `.mp3`)
 - written text as `.pdf`
 
+#### Features:
+- Comparing the difference in the distribution of the sizes of the two groups of pictures, we made sure that the pictures share simlar sizes which means that the size of each picture won't affect the classification.
+- By using bootstrap, we computed the 95% confidence interval for each feature from two groups of data. The features include the mean hue, mean saturation, mean value, mean entropy and the sum of the edges. As the diffrence between the CIs for the two groups turns out, Disney studio's pictures tend to have a higher mean saturation and a lower mean value compared with the pictures from Hayao's movies. It means that Disney movies tend to be more colorful but darker while Ghibli movies tend to be more grey but brighter. Other features, however, do not show significant differences between the two groups. 
+
 #### Modelling:
 - In an attempt to classify Disney's movie photos from those of Ghibli's, several classification models -- including Support Vector Machine, Random Forest Classifier, AdaBoost Classifier, Gaussian Mixture Model, Decision Tree Classifier, and K-Nearest Neighbors -- were trained and tested on our image dataset.
 - Our best classification result is based on a Support Vector Machine with a highest accuracy score of 0.818. While this result can not be referenced as particularly high, we do believe there is a high probability it might be due to our lack of training data. With more training instances, we are confident in seeing a possibly higher classification accuracy score. Disregarding of this limitation, a score of 0.818 does tell us that there are discernable and un-ignorable differences in terms of image stats between the famous Western Animation studio and the prominent Eastern Studio Gilbli.
@@ -181,6 +185,7 @@ Our codes are solely based on Python programming language, with common image pro
 
 ## Reference
 
+References to any papers, techniques, repositories you used:
 - Papers:
 	- https://pdfs.semanticscholar.org/cf19/77dcc1de865ef5680a91edd63e1db51a0be4.pdf
 - Repositories:
