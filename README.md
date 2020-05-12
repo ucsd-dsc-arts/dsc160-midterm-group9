@@ -1,4 +1,4 @@
-# Project Title
+# Walt Disney Animation Studio VS. Studio Ghibli [Visual Analysis on Movie Images]
 
 DSC160 Data Science and the Arts - Midterm Project Repository - Spring 2020
 
